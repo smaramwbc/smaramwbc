@@ -21,13 +21,19 @@ I build [**Statewave**](https://github.com/smaramwbc/statewave) — an open-sour
 
 #### Getting started
 
-Run the API, then point an SDK at it:
+Run the server — Postgres + API, migrations run automatically:
+
+```bash
+git clone https://github.com/smaramwbc/statewave && cd statewave
+docker compose up -d   # API on http://localhost:8100
+```
+
+Then point an SDK at it:
 
 - **Python** — `pip install statewave`
 - **TypeScript** — `npm install @statewavedev/sdk`
 
-The API listens on `http://localhost:8100`. Full walkthrough:
-**[Getting Started (10 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
+Full walkthrough: **[Getting Started (10 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
 
 #### What I'm working on
 
