@@ -2,7 +2,7 @@
 
 I build [**Statewave**](https://github.com/smaramwbc/statewave) — an open-source memory layer for AI agents.
 
-<a href="https://github.com/smaramwbc/statewave#how-it-works">
+<a href="https://github.com/smaramwbc/statewave#how-it-works" target="_blank" rel="noopener noreferrer">
   <picture>
     <!-- Narrow-viewport (mobile) variants — pending design, tracked in smaramwbc/statewave#100.
          Uncomment once the two -mobile-* assets land in docs/img/.
@@ -27,8 +27,7 @@ Run the API, then point an SDK at it:
 - **TypeScript** — `npm install @statewavedev/sdk`
 
 The API listens on `http://localhost:8100`. Full walkthrough:
-**[Getting Started (10 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**
-— or try the live demo at **[statewave.ai](https://statewave.ai)**.
+**[Getting Started (10 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
 
 #### What I'm working on
 
