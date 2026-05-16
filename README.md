@@ -2,7 +2,7 @@
 
 I build [**Statewave**](https://github.com/smaramwbc/statewave) — an open-source memory layer for AI agents.
 
-<a href="https://github.com/smaramwbc/statewave#how-it-works" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/smaramwbc/statewave#user-content-how-it-works" target="_blank" rel="noopener noreferrer">
   <picture>
     <!-- Narrow-viewport (mobile) variants — pending design, tracked in smaramwbc/statewave#100.
          Uncomment once the two -mobile-* assets land in docs/img/.
