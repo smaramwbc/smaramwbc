@@ -4,13 +4,10 @@ I build [**Statewave**](https://github.com/smaramwbc/statewave) — an open-sour
 
 <a href="https://github.com/smaramwbc/statewave#user-content-how-it-works" target="_blank" rel="noopener noreferrer">
   <picture>
-    <!-- Narrow-viewport (mobile) variants — pending design, tracked in smaramwbc/statewave#100.
-         Uncomment once the two -mobile-* assets land in docs/img/.
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/smaramwbc/statewave/main/docs/img/how-statewave-works-mobile-dark.png">
     <source media="(max-width: 600px)"
             srcset="https://raw.githubusercontent.com/smaramwbc/statewave/main/docs/img/how-statewave-works-mobile-light.png">
-    -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/smaramwbc/statewave/main/docs/img/how-statewave-works-dark.png">
     <img alt="How Statewave works"
