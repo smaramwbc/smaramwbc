@@ -30,7 +30,7 @@ Then point an SDK at it:
 - **Python** — `pip install statewave`
 - **TypeScript** — `npm install @statewavedev/sdk`
 
-Full walkthrough: **[Getting Started (10 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
+Full walkthrough: **[Getting Started (5 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
 
 #### What I'm working on
 
