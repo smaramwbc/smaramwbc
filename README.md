@@ -1,6 +1,6 @@
 ### Hi
 
-I build [**Statewave**](https://github.com/smaramwbc/statewave) — an open-source memory layer for AI agents.
+Working on [**Statewave**](https://github.com/smaramwbc/statewave), an open-source memory layer for AI agents.
 
 <a href="https://github.com/smaramwbc/statewave#user-content-how-it-works" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -38,6 +38,7 @@ Full walkthrough: **[Getting Started (5 min)](https://github.com/smaramwbc/state
 - [**statewave-py**](https://github.com/smaramwbc/statewave-py) — Python SDK
 - [**statewave-ts**](https://github.com/smaramwbc/statewave-ts) — TypeScript SDK
 - [**statewave-connectors**](https://github.com/smaramwbc/statewave-connectors) — integrations
+- [**statewave-admin**](https://github.com/smaramwbc/statewave-admin) — admin dashboard and CLI
 - [**statewave-docs**](https://github.com/smaramwbc/statewave-docs) — docs and guides
 
 #### Reach me
