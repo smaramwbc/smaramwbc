@@ -1,6 +1,8 @@
 ### Hi
 
-Working on [**Statewave**](https://github.com/smaramwbc/statewave), an open-source memory layer for AI agents.
+Building [**Statewave**](https://github.com/smaramwbc/statewave) — AI memory built for production.
+
+Policies, sensitivity labels, and tamper-evident audit receipts — not just retrieval. Every memory traces to its source. Governance built in from day one.
 
 <a href="https://github.com/smaramwbc/statewave#user-content-how-it-works" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -18,7 +20,13 @@ Working on [**Statewave**](https://github.com/smaramwbc/statewave), an open-sour
 
 #### Getting started
 
-Run the server — Postgres + API, migrations run automatically:
+The fastest path — interactive setup, connects your first memory source in under a minute:
+
+```bash
+npx @statewavedev/connectors-cli quickstart
+```
+
+Or run the full stack yourself:
 
 ```bash
 git clone https://github.com/smaramwbc/statewave && cd statewave
