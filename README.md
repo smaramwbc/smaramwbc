@@ -33,10 +33,11 @@ git clone https://github.com/smaramwbc/statewave && cd statewave
 docker compose up -d   # API on http://localhost:8100
 ```
 
-Then point an SDK at it:
+Then point an SDK — or any HTTP client — at it:
 
 - **Python** — `pip install statewave`
 - **TypeScript** — `npm install @statewavedev/sdk`
+- **REST API** — any language, via the [OpenAPI docs](http://localhost:8100/docs) (or the [v1 contract](https://github.com/smaramwbc/statewave-docs/blob/main/api/v1-contract.md))
 
 Full walkthrough: **[Getting Started (5 min)](https://github.com/smaramwbc/statewave-docs/blob/main/getting-started.md)**.
 
