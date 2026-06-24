@@ -1,0 +1,7 @@
+# Local AI/IDE tooling — not part of this profile repo
+.cursor/
+.vscode/
+.mcp.json
+AGENTS.md
+CLAUDE.md
+.github/copilot-instructions.md
