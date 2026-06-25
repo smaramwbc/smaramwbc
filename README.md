@@ -23,7 +23,15 @@ Policies, sensitivity labels, and tamper-evident audit receipts — not just ret
 The fastest path — interactive setup, connects your first memory source in under a minute:
 
 ```bash
-npx @statewavedev/connectors-cli quickstart
+# macOS / Linux
+npx @statewavedev/statewave
+# or
+curl -fsSL https://www.statewave.ai/install | sh
+```
+
+```powershell
+# Windows (PowerShell)
+irm https://www.statewave.ai/install.ps1 | iex
 ```
 
 Or run the full stack yourself:
